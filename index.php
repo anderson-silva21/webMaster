@@ -87,7 +87,7 @@
 				<p>Todos os direitos reservados</p>
 			</div><!--center-->
 		</footer><!--footer-->
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhELbwGMpeh-moGokS2abLc9Fk64hzQSE"></script>
+		<script src="???"></script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/constants.js"> </script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/scripts.js"> </script>
