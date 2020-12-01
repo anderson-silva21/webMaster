@@ -42,6 +42,8 @@
 					break;
 			}
 		?>
+
+		<?php new Email(); ?>
 		<header>
 			<div class="center">
 				<div class="logo left"><img class="logotipo2" src="<?php echo INCLUDE_PATH; ?>images/logotipo2.png" width="32%" ></div><!--logo-->
@@ -87,7 +89,7 @@
 				<p>Todos os direitos reservados</p>
 			</div><!--center-->
 		</footer><!--footer-->
-		<script src="https://maps.googleapis.com/maps/api/js?key=????"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhELbwGMpeh-moGokS2abLc9Fk64hzQSE"></script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/constants.js"> </script>
 		<script src="<?php echo INCLUDE_PATH; ?>js/scripts.js"> </script>
